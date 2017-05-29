@@ -52,10 +52,10 @@ img {
 }
 /*----------------------------------------header-styles---------------------------------------*/
 #header {
-	background-color: #eeebec;
+	background-color: #ffffae;
 	margin: 0;
 	padding: 0;
-	position: relative;
+	position: static;
 	width: 100%;
 }
 #header div {
@@ -94,7 +94,7 @@ img {
 	width: auto;
 }
 #header div ul li a {
-	color: #7a6666;
+	color: #2c6455;
 	font-family: lato-regular-webfont;
 	font-size: 15px;
 	font-weight: normal;
@@ -108,7 +108,7 @@ img {
 	color: #2C6455;
 }
 #header div ul li a:hover, #header div ul li.menu:hover ul li a {
-	color: #FFD87D;
+	color: #2C6455;
 }
 #header div ul li ul li a {
 	color: #2C6455;
@@ -196,7 +196,7 @@ img {
 	z-index: 90;
 }
 #body.home div.body {
-	background-color: #eae7e8;
+	background-color: #ffffae;
 	margin: 0;
 	max-width: none;
 	padding: 0;
@@ -222,9 +222,10 @@ img {
 	padding: 0;
 	position: relative;
 	width: auto;
+    margin-top: 2%;
 }
 #body.home div.body div div h1 {
-	color: #7A6666;
+	color: #599180;
 	display: block;
 	font-family: lato-bold-webfont;
 	font-size: 18px;
@@ -322,7 +323,7 @@ img {
 	background-position: 0 -326px;
 }
 #body.home div.footer div ul li h1 {
-	color: #ffffff;
+	color: #2c6455;
 	font-family: lato-regular-webfont;
 	font-size: 20px;
 	font-weight: normal;
