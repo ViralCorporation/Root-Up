@@ -1087,7 +1087,7 @@
 /* Basic */
 
 	body {
-		background: url(/images/sky.jpg);
+		background: url(../images/sky.jpg);
         background-size: 100%;
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
@@ -1621,7 +1621,7 @@
 		position: relative;
         height: 20em;
 		overflow: hidden;
-		background-image: url(/images/root-footer.jpg);
+		background-image: url(../images/root-footer.jpg);
         background-size: 100%;
         background-repeat: no-repeat;
 	}
